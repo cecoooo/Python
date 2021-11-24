@@ -1,2 +1,2 @@
-# projects_Csharp
-basic c# projects
+# projects_python
+basic python projects
