@@ -1,2 +1,2 @@
-# projects_python
-basic python projects
+# Python
+basic python exercises
